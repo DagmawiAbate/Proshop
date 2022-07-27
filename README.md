@@ -1,2 +1,2 @@
 # Proshop
-An E-Commerce MERN App
+An E-Commerce MERN App.
