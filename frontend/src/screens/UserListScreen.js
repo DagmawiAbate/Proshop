@@ -9,7 +9,7 @@ import { listUsers } from '../actions/userActions'
 const UserListScreen = () => {
   const dispatch = useDispatch()
 
-  const userList = useSelector((state) => state.userlist)
+  const userList = useSelector((state) => state.userList)
   const { loading, error, users } = userList
 
   useEffect(() => {
