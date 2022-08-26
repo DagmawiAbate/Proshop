@@ -8,8 +8,7 @@ import {
   ListGroup,
   Image,
   Button,
-  Card,
-  Accordion
+  Card
 } from 'react-bootstrap'
 import Message from '../components/Message'
 import { addToCart, removeFromCart } from '../actions/cartActions'
