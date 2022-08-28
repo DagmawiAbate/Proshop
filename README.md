@@ -1,7 +1,7 @@
 # Proshop
 > An E-Commerce MERN App built with the MERN stack & Redux.
 
-![screenshot](images/Screenshot%20Image.png)
+![screenshot](uploads/Screenshot%20Image.png)
 
 ## Features
 
