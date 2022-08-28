@@ -13,16 +13,8 @@
     "data:destroy": "node backend/seeder -d",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix frontend && npm run build --prefix frontend"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DagmawiAbate/proshop.git"
-  },
-  "author": "Dagmawi Abate",
+  "author": "Brad Traversy",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/DagmawiAbate/proshop/issues"
-  },
-  "homepage": "https://github.com/DagmawiAbate/proshop#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
@@ -35,7 +27,7 @@
     "multer": "^1.4.2"
   },
   "devDependencies": {
-    "concurrently": "^7.3.0",
-    "nodemon": "^2.0.19"
+    "concurrently": "^5.3.0",
+    "nodemon": "^2.0.4"
   }
 }
