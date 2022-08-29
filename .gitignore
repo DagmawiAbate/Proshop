@@ -12,6 +12,9 @@ node_modules/
 # production
 /frontend/build
 
+# Astekakel.txt
+Astekakel.txt
+
 # misc
 .DS_Store
 .env
